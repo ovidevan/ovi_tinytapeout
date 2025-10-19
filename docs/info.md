@@ -9,11 +9,18 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+3 logic gates (OR, NAND, XOR) are connecgted between input switches and output display to check function.
 
 ## How to test
 
-Explain how to use your project
+Toggle the input swtiches to see how the output of the logic gate react.
+OR Gate
+  Switch 1 & 2 -> OR gate inputs
+  Output [0] -> OR gate output
+
+  NAND
+    Switch 3 & 4 -> NAND gate inputs
+    ouput [2] -> NAND gate output
 
 ## External hardware
 
