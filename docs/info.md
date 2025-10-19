@@ -14,6 +14,7 @@ You can also include images in this folder and reference them in the markdown. E
 ## How to test
 
 Toggle the input swtiches to see how the output of the logic gate react.
+
 OR Gate
   Switch 1 & 2 -> OR gate inputs
   Output [0] -> OR gate output
