@@ -20,7 +20,11 @@ OR Gate
 
   NAND
     Switch 3 & 4 -> NAND gate inputs
-    ouput [2] -> NAND gate output
+    Ouput [2] -> NAND gate output
+
+  XOR
+    Switch 7 & 8 -> XOR gate inputs
+    Output {7} -> XOR gate output
 
 ## External hardware
 
