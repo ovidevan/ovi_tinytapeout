@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     446565876953355265 #445256631886279681       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Tiny Tapeout Project - Test gates"      # Project title
+  title:        "Tiny Tapeout Project - Binary to Decimal Display"      # Project title
   author:       "Ovi M"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Testing Logic Gate - Binary to decimal converter (3bits)"      # One line description of what your project does
